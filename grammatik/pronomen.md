@@ -15,8 +15,8 @@
 
 | svenska [engelska] | ptujsn | 
 | ------------------ | ------ |
-| min                | ?      |
-| din                | ?      |
+| min                | saj    |
+| din                | suj    |
 | hens               | ?      |
 | dess? (bara hens?) | ?      |
 | vår                | ?      |
