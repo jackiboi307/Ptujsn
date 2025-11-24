@@ -7,8 +7,6 @@
 | jag                | sa     |
 | du                 | su     |
 | hen                | ?      |
-| [the] (informellt) | ten    |
-| [the] (formellt)   | den    |
 | vi                 | ?      |
 | ni                 | ?      |
 | de                 | ?      |
