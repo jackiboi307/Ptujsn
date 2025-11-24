@@ -1,37 +1,38 @@
-# Pronomen
-
-## Personliga
-
+# k:pronomen
+## personliga pronomen:
+- ### singular: 
 | svenska [engelska] | ptujsn | 
-| ------------------ | ------ |
-| jag                | sa     |
-| du                 | su     |
-| hen                | ?      |
-| vi                 | ?      |
-| ni                 | ?      |
-| de                 | ?      |
+| ---- | ------ |
+| jag | sa |
+| du | su |
+| hen | ta |
 
-## Possessiva
-
+- ### plural: 
 | svenska [engelska] | ptujsn | 
-| ------------------ | ------ |
-| min                | saj    |
-| din                | suj    |
-| hens               | ?      |
-| dess? (bara hens?) | ?      |
-| vår                | ?      |
-| er                 | ?      |
-| deras              | ?      |
+| ---- | ------ |
+| vi | san |
+| ni | sun |
+| de | tan |
 
-## Demonstrativa
-
+## possessiva pronomen:
 | svenska [engelska] | ptujsn | 
-| ------------------ | ------ |
-| [that]             | ?      |
-| [it]               | ?      |
+| ---- | ------ |
+| min | saj |
+| din | suj |
+| hens | taj |
+| dess | tej |
+| vår | sanuj |
+| er | sunuj |
+| deras | tanuj |
 
-## Generaliserande
-
+## demonstrativa pronomen:
 | svenska [engelska] | ptujsn | 
-| ------------------ | ------ |
-| man [you]          | ?      |
+| ---- | ------ |
+| [that] | te |
+| [it] | te |
+
+## rest:
+#### generaliserande pronomen:
+| svenska [engelska] | ptujsn | 
+| ---- | ------ |
+| man [you] | ? |
